@@ -14,16 +14,6 @@ Everything here is part of my learning journey as an engineer.
 
 ---
 
-## ⚙️ Tools & Tech
-
-* Python
-* CAD Design
-* Robotics & Automation
-* Mechanical Design & Manufacturing
-* DSA & Problem Solving
-
----
-
 ## 🚀 A Bit About Me
 
 * 🔧 I love building thing
