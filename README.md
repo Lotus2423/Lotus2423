@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Lotus2423/Lotus2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hey there 👋
 
-Here are some ideas to get you started:
+I'm Lotus, a Mechanical Engineering student from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work on CAD designs, robotics projects, and a bit of coding.
+
+I'm currently learning Data Structures & Algorithms and improving my problem-solving skills.
+
+I enjoy building projects that combine mechanical engineering with technology.
+
+This GitHub is where I'll be sharing my projects, experiments, and things I'm currently working on.
+
+Everything here is part of my learning journey as an engineer.
+
+---
+
+## ⚙️ Tools & Tech
+
+* Python
+* CAD Design
+* Robotics & Automation
+* Mechanical Design & Manufacturing
+* DSA & Problem Solving
+
+---
+
+## 🚀 A Bit About Me
+
+* 🔧 I love building thing
+* 🐱 I have a cat who thinks he's the real engineer
+* 💻 Learning DSA one bug at a time
+* ☕ Powered by curiosity and occasional panic before deadlines
+* 🎯 hobbie: Gym, Buliding thing 
+
+
+
