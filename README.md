@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--# Hey there 👋
-
 I'm Lotus, a Mechanical Engineering student from India.
 
 I mostly work on CAD designs, robotics projects, and a bit of coding.
