@@ -2,7 +2,7 @@
 
 I'm Lotus, a Mechanical Engineering student from India.
 
-I mostly work on CAD designs, robotics projects, and a bit of coding.
+I mostly work on designs, robotics, projects, and a bit of coding.
 
 I'm currently learning Data Structures & Algorithms and improving my problem-solving skills & my leetcode profile https://leetcode.com/u/Lotus2311/
 
