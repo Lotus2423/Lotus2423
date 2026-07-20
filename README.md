@@ -32,6 +32,8 @@
 <img src="https://img.shields.io/badge/Fusion_360-F97316?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 TwinForge-AI
@@ -48,6 +50,15 @@ AI-Powered Predictive Maintenance — clean CSS-first **public template** open f
 
 ---
 
+
+## Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -61,6 +72,16 @@ AI-Powered Predictive Maintenance — clean CSS-first **public template** open f
 🌐 Connect With Me
     <p align="center"> <a href="https://linkedin.com/in/lotus2324"> <img src="https://skillicons.dev/icons?i=linkedin" width="50"/> </a> &nbsp;&nbsp; <a href="https://github.com/Lotus2423"> <img src="https://skillicons.dev/icons?i=github" width="50"/> </a> &nbsp;&nbsp; <a href="https://twitter.com/i_lotus_23"> <img src="https://skillicons.dev/icons?i=twitter" width="50"/> </a> &nbsp;&nbsp; <a href="mailto:ernestlotus43@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50"/> </a> &nbsp;&nbsp; </a> </p>
 
+---
+
+##
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600">
+</p>
+
+---
+
 ## 💭 Quote
 
 > *"Design it. Code it. Build it. Break it. Fix it. Repeat."*
@@ -71,3 +92,12 @@ AI-Powered Predictive Maintenance — clean CSS-first **public template** open f
 *If you like my work, consider following me and checking out my repositories!* ⭐
 
 </div>
+
+
+
+
+
+
+
+
+
