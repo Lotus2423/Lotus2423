@@ -18,10 +18,11 @@
 
 > 🚀 Building AI-powered systems that combine software with hardware.
 
-> 🧠Currently deep in DSA and AI-powered systems.
+> 🧠 Currently deep in DSA and AI-powered systems.
 
 > 🌱 Everything here is part of my engineering journey.
 
+> ⚡ My LeetCode Proflie https://leetcode.com/u/Lotus2311/
 ---
 
 # 🚀 Current Focus
