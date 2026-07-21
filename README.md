@@ -1,61 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lotus&fontSize=72&fontColor=fff&fontAlignY=36&desc=Mechanical%20Engineer%20%E2%80%A2%20Robotics%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descColor=a0aec0&animation=fadeIn&fontAlign=50" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Lotus&fontAlign=50&fontAlignY=38&fontSize=72&desc=Mechanical%20Engineering%20Student%20|%20AI%20Developer%20|%20Open%20Source%20Contributor&descAlignY=60&animation=fadeIn"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Lotus;Mechanical+Engineering+Student+🎓;Robotics+%26+CAD+Designer+🚀;DSA+Learner+%26+Problem+Solver+🧠;Building+Things+That+Actually+Work+⚙️"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Mechanical+Engineer+in+the+Making+🔧;Robotics+%26+CAD+Designer+🤖;AI+Systems+Builder+🚀;DSA+Learner+%26+Problem+Solver+🧠;Building+Things+That+Actually+Work+⚙️" />
-
-<div/>
-
-<br/>
+</div>
 
 ---
 
+## 👋 About Me
 
-### 👋 About Me
+<img align="right" alt="Working Cat" width="150" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 
-> *🎓Mechanical Engineering student from India. 🤖 Passionate about Robotics, CAD Design & Automation.🚀 Building AI-powered systems that combine software with hardware.🧠Currently deep in DSA and AI-powered systems.⚡Everything here is part of my engineering journey.*
+> 🎓 Mechanical Engineering Student from India.
 
-<br/>
+> 🤖 Passionate about Robotics, CAD Design & Automation.
+
+> 🚀 Building AI-powered systems that combine software with hardware.
+
+> 🧠Currently deep in DSA and AI-powered systems.
+
+> 🌱 Everything here is part of my engineering journey.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Current Focus
 
-<p align="center">
+<div align="center">
+
+| 🚀 Learning | 💻 Building | 🎯 Goal |
+|-------------|------------|----------|
+| Mechanical Engineering | TwinForge AI | AI-Powered Mechanical Engineer |
+| Python & AI | Keep It | Industry 4.0 Engineer |
+| DSA & Problem Solving | AI Projects | GATE 2029 |
+| Thermodynamics | Personal Projects | GATE AIR < 100 |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+**💻 Languages • 🎨 Frontend • ⚙️ Backend • 🤖 AI • 🛠️ Tools**
+
 <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,arduino,raspberrypi,nodejs,vscode,git,github,figma" />
-</p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/AutoCAD-E51837?style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SolidWorks-E51837?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fusion_360-F97316?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
+<div align="center">
+  
+### 🤖 TwinForge AI
+Digital Twin platform for **predictive maintenance, industrial monitoring, AI-powered insights, and smart manufacturing.**
 
-### 🤖 TwinForge-AI
-AI-Powered Predictive Maintenance & **Digital Twin Platform** for Industry 4.0. Real-time machine monitoring with AI-driven failure prediction.
-
-### 🧬 CICI v2.0
-Next-gen rebuild of CICI — completely rearchitected with smarter features and cleaner codebase.
-
-### ⚡ CICI v1.0
-The original CICI — raw, experimental, and the foundation everything else was built on.
-
-### 🌱 Life-O
-AI-Powered Predictive Maintenance — clean CSS-first **public template** open for anyone to use.
+**⚡ React • AI • IoT • Analytics**
 
 ---
+<div align="center">
+  
+###  🧠 CICI v1.0
+The first version of CICI focused on **AI conversations, automation, and building the foundation for future intelligent features.**
 
+**⚡ Python • AI • Automation**
 
-## Contribution
+---
+<div align="center">
+  
+### 🧬 CICI v2.0
+Next-generation AI assistant with **smarter conversations, improved architecture, enhanced performance, and modern user experience.**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+**⚡ Python • FastAPI • Gemini API • AI**
+
+---
+<div align="center">
+  
+### 🌱 Life-O
+AI-powered productivity platform for **daily life management, smart organization, and personalized AI assistance.**
+
+**⚡ React • Node.js • AI • Full Stack**
 
 ---
 
@@ -67,37 +98,40 @@ AI-Powered Predictive Maintenance — clean CSS-first **public template** open f
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Let's Connect
 
-🌐 Connect With Me
-    <p align="center"> <a href="https://linkedin.com/in/lotus2324"> <img src="https://skillicons.dev/icons?i=linkedin" width="50"/> </a> &nbsp;&nbsp; <a href="https://github.com/Lotus2423"> <img src="https://skillicons.dev/icons?i=github" width="50"/> </a> &nbsp;&nbsp; <a href="https://twitter.com/i_lotus_23"> <img src="https://skillicons.dev/icons?i=twitter" width="50"/> </a> &nbsp;&nbsp; <a href="mailto:ernestlotus43@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50"/> </a> &nbsp;&nbsp; </a> </p>
+<div align="center">
 
----
+<a href="https://github.com/Lotus2423">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
-##
+<a href="https://linkedin.com/in/lotus2324">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600">
-</p>
-
----
-
-## 💭 Quote
-
-> *"Design it. Code it. Build it. Break it. Fix it. Repeat."*
-
----
-<div>
-
-*If you like my work, consider following me and checking out my repositories!* ⭐
+<a href="https://twitter.com/i_lotus_23"> 
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a>
 
 </div>
 
+---
 
+# 💭 Quote
 
+<div align="center">
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
 
+---
 
+<div align="center">
 
+## Thanks for visiting my profile ❤️
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+
+</div>
