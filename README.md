@@ -91,11 +91,6 @@ AI-powered productivity platform for **daily life management, smart organization
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lotus2423&theme=tokyo-night&hide_border=true&radius=6" width="95%"/>
-</p>
 
 ---
 
