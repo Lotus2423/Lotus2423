@@ -76,10 +76,8 @@ The first version of CICI focused on **AI conversations, automation, and buildin
 ---
 <div align="center">
   
-### 🧬 CICI v2.0
-Next-generation AI assistant with **smarter conversations, improved architecture, enhanced performance, and modern user experience.**
-
-**⚡ Python • FastAPI • Gemini API • AI**
+###  🚗 SELF_DRIVING_CAR
+**🚗 Self-driving car AI — Tesla-inspired | Python + YOLOv8 + NEAT | No hardware needed!
 
 ---
 <div align="center">
