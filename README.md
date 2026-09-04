@@ -32,7 +32,7 @@
 | 🚀 Learning | 💻 Building | 🎯 Goal |
 |-------------|------------|----------|
 | Mechanical Engineering | TwinForge AI | AI-Powered Mechanical Engineer |
-| Python & AI | SELF_DRVING_CAR | Industry 4.0 Engineer |
+| Python & AI | SELF_DRIVING_CAR | Industry 4.0 Engineer |
 | DSA & Problem Solving | AI Projects | GATE 2029 |
 | Thermodynamics | Personal Projects | GATE AIR < 100 |
 
